@@ -10,5 +10,6 @@ public class Basic {
 
         // 結果を表示
         System.out.println("3科目の平均点は " + average + " 点です");
+        System.out.println("3科目の平均点は " + average + " 点です");
     }
 }
